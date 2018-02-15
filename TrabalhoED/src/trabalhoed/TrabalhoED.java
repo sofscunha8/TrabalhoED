@@ -59,10 +59,6 @@ public class TrabalhoED {
     }
         
         
-        
-        
-        sofia
-        
     public static void carregarRedeSocial() {
         BufferedReader builder = null;
         try {
