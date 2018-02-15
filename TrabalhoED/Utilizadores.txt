@@ -1,0 +1,12 @@
+utilizador-1:frs:abc:0.0;amigos-2:
+utilizador-2:nyeeeeee:asdfghjonb:0.0;amigos-3:
+utilizador-3:FRS2:123:0.0;amigos-2:4:6:
+utilizador-4:FRS3:1234:0.0;amigos-3:
+utilizador-5:FRS4:12345:0.0;
+utilizador-6:FRS5:abc2:0.0;amigos-3:
+utilizador-7:frs6:abc3:0.0;
+utilizador-8:frs8:abcd:0.0;pedidos-3:
+utilizador-9:frs9:abcdf:0.0;
+utilizador-10:ola:ola:0.0;
+utilizador-11:oi:oi:0.0;
+utilizador-12:lol:lol:0.0;
